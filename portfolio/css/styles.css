@@ -1,0 +1,42 @@
+@charset "UTF-8";
+@media screen and (max-width:600px) {
+  /* 画面サイズが600px以下の場合に適用 */
+
+  #portfolio {
+    background-image: url(../img/bg-portfolio-sp.jpg);
+  }
+
+  #portfolio .main section > div {
+    flex-direction: column;
+  }
+
+  #portfolio .main section > div img {
+    width: 100%;
+  }
+}
+
+#portfolio {
+  background-image: url(../img/bg-portfolio.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+  background-size: 100% auto;
+}
+
+#portfolio .main section > div {
+  display: flex;
+}
+
+#portfolio .main section > div > figure {
+  margin: 0 40px 0 0;
+  overflow: hidden;
+}
+
+.scale-animation {
+  transition-property: transform;
+  transition-duration: 0.5s;
+}
+
+.scale-animation:hover {
+  transform: scale(1.1);
+}

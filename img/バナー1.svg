@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320"
+   height="100"
+   viewBox="0 0 84.666667 26.458333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="バナー1.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="270"
+     inkscape:cy="8.9983758"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54164)">
+    <rect
+       style="fill:#b3b3b3;stroke-width:0.47161967"
+       id="rect3741"
+       width="84.666664"
+       height="26.458334"
+       x="2.0940565e-08"
+       y="270.54163" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.67739487px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.27822477"
+       x="28.596411"
+       y="285.20505"
+       id="text3729"
+       transform="scale(1.0109095,0.98920824)"><tspan
+         sodipodi:role="line"
+         id="tspan3727"
+         x="28.596411"
+         y="285.20505"
+         style="font-size:6.67739487px;text-align:center;text-anchor:middle;fill:#1a1a1a;stroke-width:0.27822477">旅行写真館</tspan><tspan
+         sodipodi:role="line"
+         x="28.596411"
+         y="294.03287"
+         style="font-size:6.67739487px;text-align:center;text-anchor:middle;fill:#1a1a1a;stroke-width:0.27822477"
+         id="tspan3733">トラベルピックス</tspan></text>
+    <g
+       id="g3752">
+      <ellipse
+         style="stroke-width:0.26458332"
+         ry="10.583333"
+         rx="10.961308"
+         cy="283.6196"
+         cx="69.283058"
+         id="path3721" />
+      <ellipse
+         style="fill:#f9f9f9;stroke-width:0.26458332"
+         ry="6.7090774"
+         rx="6.3311014"
+         cy="283.71408"
+         cx="69.528748"
+         id="path3723" />
+      <path
+         transform="matrix(0.26458333,0,0,0.26458333,0,270.54164)"
+         inkscape:connector-curvature="0"
+         id="path3737"
+         d="m 257.10754,74.028781 c -6.38688,-1.722557 -11.98607,-6.546536 -15.45222,-13.312871 -1.7911,-3.496446 -2.01246,-4.676623 -2.01246,-10.729305 0,-6.244749 0.19193,-7.190602 2.34767,-11.569543 8.15437,-16.563878 30.29788,-18.156038 40.02115,-2.877595 9.03714,14.200298 2.74795,33.31255 -12.51312,38.026214 -5.26372,1.6258 -7.7372,1.718243 -12.39102,0.4631 z"
+         style="fill:#b3b3b3;stroke-width:0.71428573" />
+    </g>
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.20676713"
+       id="path3754"
+       cx="71.720978"
+       cy="283.77081"
+       rx="1.7953868"
+       ry="5.1026788" />
+  </g>
+</svg>
