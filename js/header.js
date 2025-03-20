@@ -7,7 +7,7 @@ globalNav.classList.add('global-nav');
 
 // const links = ['/portfolio/index.html', '/profile/index.html'];
 // const linkTexts = ['Portfolio', 'Profile'];
-const links = ['/profile/index.html'];
+const links = ['../profile/index.html'];
 const linkTexts = ['Profile'];
 
 for(let i = 0; i < links.length; i++) {
