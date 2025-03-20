@@ -1,0 +1,191 @@
+@charset "UTF-8";
+
+#profile {
+  background-image: url(../img/tools.JPG);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+  background-size: 100% auto;
+}
+
+#profile h3 {
+  font-size: 18px;
+}
+
+ul.index {
+  margin: 35px 0;
+}
+
+#profile .content {
+  display: flex;
+}
+
+/* #profile .profile-txt {
+  width: 720px;
+  float: left;
+} */
+
+#profile .profile-image {
+  float: right;
+}
+
+/* #profile .career th {
+  width: 180px;
+  background-color: #b0c4de;
+  padding: 12px 4px;
+  border: 1px solid #cccccc;
+}
+
+#profile .career td {
+  width: 660px;
+  padding: 12px 40px;
+  border: 1px solid #cccccc;
+} */
+
+#photograph {
+  background-image: url(../images/bg-photograph.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+  background-size: 100% auto;
+}
+
+#photograph .photograph-list li {
+  float: left;
+  list-style: none;
+  margin: 0 20px 15px 0;
+}
+
+#photograph .photograph-list li:nth-child(2n) {
+  margin-right: 0;
+}
+
+#video {
+  background-image: url(../images/bg-video.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+  background-size: 100% auto;
+}
+
+#contact {
+  background-image: url(../images/bg-contact.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+  background-size: 100% auto;
+}
+
+#contact .access table {
+  float: left;
+}
+
+#contact .access th,
+#contact .access td {
+  text-align: left;
+  vertical-align: top;
+  line-height: 2.5;
+}
+
+#contact .access td {
+  padding-left: 30px;
+}
+
+#contact .access iframe {
+  width: 460px;
+  float: right;
+}
+
+#contact .form {
+  background-color: #eaeaea;
+  padding: 30px 50px;
+}
+
+#contact .form dl dt {
+  width: 165px;
+  padding: 10px 0;
+  float: left;
+  clear: both;
+}
+
+#contact .form dl dd {
+  padding: 10px 0;
+}
+
+#contact .form .name {
+  width: 240px;
+  height: 30px;
+}
+
+#contact .form .email {
+  width: 300px;
+  height: 30px;
+}
+
+#contact .form .tel {
+  width: 240px;
+  height: 30px;
+}
+
+#contact .form .type {
+  width: 180px;
+  height: 30px;
+}
+
+#contact .form .message {
+  width: 660px;
+  height: 150px;
+}
+
+#contact .form button {
+  background-color: #009cd3;
+  color: #ffffff;
+  font-size: 20px;
+  width: 120px;
+  display: block;
+  text-align: center;
+  line-height: 50px;
+  border-radius: 5px;
+  border: 3px solid #009cd3;
+  margin-left: 165px;
+}
+
+#contact .form button:hover {
+  background-color: #ffffff;
+  color: #009cd3;
+  cursor: pointer;
+}
+
+#contact .form .required:after {
+  content: ' * ';
+  color: #ff0000;
+}
+
+#contact .form .attention {
+  margin: 20px 0 0 165px;
+}
+
+#profile .question h3 {
+  cursor: pointer;
+}
+
+#profile .question h3::before {
+  content: 'Q. ';
+}
+
+#profile .question h3:hover {
+  background-color: #d3d3d3;
+}
+
+#profile .question .state {
+  font-size: 14px;
+  color: #dcdcdc;
+}
+
+#profile .question > p {
+  display: none;
+}
+
+#profile .question > p::before {
+  content: 'A. ';
+}
