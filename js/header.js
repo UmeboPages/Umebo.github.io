@@ -5,8 +5,10 @@ const nav = document.createElement('nav');
 const globalNav = document.createElement('ul');
 globalNav.classList.add('global-nav');
 
-const links = ['/portfolio/index.html', '/profile/index.html'];
-const linkTexts = ['Portfolio', 'Profile'];
+// const links = ['/portfolio/index.html', '/profile/index.html'];
+// const linkTexts = ['Portfolio', 'Profile'];
+const links = ['/profile/index.html'];
+const linkTexts = ['Profile'];
 
 for(let i = 0; i < links.length; i++) {
     var li = document.createElement('li');
